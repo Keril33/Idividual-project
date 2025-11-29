@@ -1,0 +1,12 @@
+D:\Solution2\RealEstateSystem\Realty.Persistence\bin\Debug\net8.0\Realty.Persistence.deps.json
+D:\Solution2\RealEstateSystem\Realty.Persistence\bin\Debug\net8.0\Realty.Persistence.dll
+D:\Solution2\RealEstateSystem\Realty.Persistence\bin\Debug\net8.0\Realty.Persistence.pdb
+D:\Solution2\RealEstateSystem\Realty.Persistence\obj\Debug\net8.0\Realty.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Solution2\RealEstateSystem\Realty.Persistence\obj\Debug\net8.0\Realty.Persistence.AssemblyInfoInputs.cache
+D:\Solution2\RealEstateSystem\Realty.Persistence\obj\Debug\net8.0\Realty.Persistence.AssemblyInfo.cs
+D:\Solution2\RealEstateSystem\Realty.Persistence\obj\Debug\net8.0\Realty.Persistence.csproj.CoreCompileInputs.cache
+D:\Solution2\RealEstateSystem\Realty.Persistence\obj\Debug\net8.0\Realty.Persistence.dll
+D:\Solution2\RealEstateSystem\Realty.Persistence\obj\Debug\net8.0\refint\Realty.Persistence.dll
+D:\Solution2\RealEstateSystem\Realty.Persistence\obj\Debug\net8.0\Realty.Persistence.pdb
+D:\Solution2\RealEstateSystem\Realty.Persistence\obj\Debug\net8.0\ref\Realty.Persistence.dll
+D:\Solution2\RealEstateSystem\Realty.Persistence\obj\Debug\net8.0\Realty.Persistence.csproj.AssemblyReference.cache
